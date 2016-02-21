@@ -1,7 +1,11 @@
 # payloads
 Git All the Payloads!
 
-## Payload credits
+### Usage
+
+run `./get.sh` to download external payloads.
+
+### Payload Credits
 
 fuzzdb - https://github.com/fuzzdb-project/fuzzdb
 
