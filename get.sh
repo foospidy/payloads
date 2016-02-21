@@ -5,8 +5,32 @@ then
     rm master.zip
 fi
 
-### Get all the fuzzdbs
+### fuzzdb
 wget https://github.com/fuzzdb-project/fuzzdb/archive/master.zip
 unzip master.zip
 rm master.zip
 mv fuzzdb-master fuzzdb
+
+### SecLists
+wget https://github.com/danielmiessler/SecLists/archive/master.zip
+unzip master.zip
+rm master.zip
+mv SecLists-master SecLists
+
+### xsuperbug
+wget https://github.com/xsuperbug/payloads/archive/master.zip
+unzip master.zip
+rm master.zip
+mv payloads-master xsuperbug
+
+### NickSanzotta
+wget https://github.com/NickSanzotta/BurpIntruder/archive/master.zip
+unzip master.zip
+rm master.zip
+mv BurpIntruder-master NickIntruder
+
+### 7ioSecurity
+wget https://github.com/7ioSecurity/XSS-Payloads/archive/master.zip
+unzip master.zip
+rm master.zip
+mv XSS-Payloads-master 7ioS-XSS-Payloads
