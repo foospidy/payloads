@@ -1,5 +1,5 @@
 # payloads
-Git All the Payloads!
+Git All the Payloads! A collection of web attack payloads.
 
 ### Usage
 
