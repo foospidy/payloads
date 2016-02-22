@@ -7,11 +7,11 @@ run `./get.sh` to download external payloads.
 
 ### Payload Credits
 
-fuzzdb       - https://github.com/fuzzdb-project/fuzzdb
-SecLists     - https://github.com/danielmiessler/SecLists
-xsuperbug    - https://github.com/xsuperbug/payloads
-NickSanzotta - https://github.com/NickSanzotta/BurpIntruder
-7ioSecurity  - https://github.com/7ioSecurity/XSS-Payloads
+- fuzzdb       - https://github.com/fuzzdb-project/fuzzdb
+- SecLists     - https://github.com/danielmiessler/SecLists
+- xsuperbug    - https://github.com/xsuperbug/payloads
+- NickSanzotta - https://github.com/NickSanzotta/BurpIntruder
+- 7ioSecurity  - https://github.com/7ioSecurity/XSS-Payloads
 
 Other
 - xss/jsf__k.txt         - http://www.jsfuck.com/
