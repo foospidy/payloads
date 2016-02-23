@@ -34,3 +34,9 @@ wget https://github.com/7ioSecurity/XSS-Payloads/archive/master.zip
 unzip master.zip
 rm master.zip
 mv XSS-Payloads-master 7ioS-XSS-Payloads
+
+### shadsidd
+wget https://github.com/shadsidd/Automated-XSS-Finder/archive/master.zip
+unzip master.zip
+rm master.zip
+mv Automated-XSS-Finder-master 7ioS-XSS-Payloads

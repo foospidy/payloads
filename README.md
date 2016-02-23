@@ -12,6 +12,7 @@ run `./get.sh` to download external payloads.
 - xsuperbug    - https://github.com/xsuperbug/payloads
 - NickSanzotta - https://github.com/NickSanzotta/BurpIntruder
 - 7ioSecurity  - https://github.com/7ioSecurity/XSS-Payloads
+- shadsidd     - https://github.com/shadsidd
 
 Other
 - xss/jsf__k.txt         - http://www.jsfuck.com/
