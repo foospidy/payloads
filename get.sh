@@ -15,7 +15,7 @@ mv fuzzdb-master fuzzdb
 wget https://github.com/danielmiessler/SecLists/archive/master.zip
 unzip master.zip
 rm master.zip
-mv SecLists-master SecLists
+mv SecLists-master danielmiessler
 
 ### xsuperbug
 wget https://github.com/xsuperbug/payloads/archive/master.zip
@@ -33,10 +33,10 @@ mv BurpIntruder-master NickIntruder
 wget https://github.com/7ioSecurity/XSS-Payloads/archive/master.zip
 unzip master.zip
 rm master.zip
-mv XSS-Payloads-master 7ioS-XSS-Payloads
+mv XSS-Payloads-master 7ioSecurity
 
 ### shadsidd
 wget https://github.com/shadsidd/Automated-XSS-Finder/archive/master.zip
 unzip master.zip
 rm master.zip
-mv Automated-XSS-Finder-master 7ioS-XSS-Payloads
+mv Automated-XSS-Finder-master shadsidd
