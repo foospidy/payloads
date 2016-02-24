@@ -20,3 +20,4 @@ Other
 - xss/packetstorm.txt    - https://packetstormsecurity.com/files/112152/Cross-Site-Scripting-Payloads.html
 - xss/smeegessec.com.txt - http://www.smeegesec.com/2012/06/collection-of-cross-site-scripting-xss.html
 - xss/d3adend.org        - http://d3adend.org/xss/ghettoBypass
+- xss/soaj1664ashar      - http://pastebin.com/u6FY1xDA
