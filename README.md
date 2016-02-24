@@ -19,3 +19,4 @@ Other
 - xss/kirankarnad.txt    - https://www.linkedin.com/pulse/20140812222156-79939846-xss-vectors-you-may-need-as-a-pen-tester
 - xss/packetstorm.txt    - https://packetstormsecurity.com/files/112152/Cross-Site-Scripting-Payloads.html
 - xss/smeegessec.com.txt - http://www.smeegesec.com/2012/06/collection-of-cross-site-scripting-xss.html
+- xss/d3adend.org        - http://d3adend.org/xss/ghettoBypass
