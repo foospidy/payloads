@@ -27,7 +27,7 @@ mv payloads-master xsuperbug
 wget https://github.com/NickSanzotta/BurpIntruder/archive/master.zip
 unzip master.zip
 rm master.zip
-mv BurpIntruder-master NickIntruder
+mv BurpIntruder-master NickSanzotta
 
 ### 7ioSecurity
 wget https://github.com/7ioSecurity/XSS-Payloads/archive/master.zip
