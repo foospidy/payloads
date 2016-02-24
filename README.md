@@ -21,3 +21,4 @@ Other
 - xss/smeegessec.com.txt - http://www.smeegesec.com/2012/06/collection-of-cross-site-scripting-xss.html
 - xss/d3adend.org        - http://d3adend.org/xss/ghettoBypass
 - xss/soaj1664ashar      - http://pastebin.com/u6FY1xDA
+- xss/billsempf          - https://www.sempf.net/post/Six-hundred-and-sixty-six-XSS-vectors-suitable-for-attacking-an-API.aspx (http://pastebin.com/48WdZR6L)
