@@ -25,3 +25,4 @@ Other
 - xss/billsempf          - https://www.sempf.net/post/Six-hundred-and-sixty-six-XSS-vectors-suitable-for-attacking-an-API.aspx (http://pastebin.com/48WdZR6L)
 - xss/787373             - https://84692bb0df6f30fc0687-25dde2f20b8e8c1bda75aeb96f737eae.ssl.cf1.rackcdn.com/--xss.html
 - xss/bhandarkar         - http://hackingforsecurity.blogspot.com/2013/11/xss-cheat-sheet-huge-list.html
+- sqli/camoufl4g3.txt    - https://github.com/camoufl4g3/SQLi-payload-Fuzz3R/blob/master/payloads.txt
