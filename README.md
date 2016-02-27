@@ -20,10 +20,10 @@ Other
 - xss/kirankarnad.txt    - https://www.linkedin.com/pulse/20140812222156-79939846-xss-vectors-you-may-need-as-a-pen-tester
 - xss/packetstorm.txt    - https://packetstormsecurity.com/files/112152/Cross-Site-Scripting-Payloads.html
 - xss/smeegessec.com.txt - http://www.smeegesec.com/2012/06/collection-of-cross-site-scripting-xss.html
-- xss/d3adend.org        - http://d3adend.org/xss/ghettoBypass
-- xss/soaj1664ashar      - http://pastebin.com/u6FY1xDA
-- xss/billsempf          - https://www.sempf.net/post/Six-hundred-and-sixty-six-XSS-vectors-suitable-for-attacking-an-API.aspx (http://pastebin.com/48WdZR6L)
-- xss/787373             - https://84692bb0df6f30fc0687-25dde2f20b8e8c1bda75aeb96f737eae.ssl.cf1.rackcdn.com/--xss.html
-- xss/bhandarkar         - http://hackingforsecurity.blogspot.com/2013/11/xss-cheat-sheet-huge-list.html
-- xss/xssdb              - http://xssdb.net/xssdb.txt
+- xss/d3adend.org.txt    - http://d3adend.org/xss/ghettoBypass
+- xss/soaj1664ashar.txt  - http://pastebin.com/u6FY1xDA
+- xss/billsempf.txt      - https://www.sempf.net/post/Six-hundred-and-sixty-six-XSS-vectors-suitable-for-attacking-an-API.aspx (http://pastebin.com/48WdZR6L)
+- xss/787373.txt         - https://84692bb0df6f30fc0687-25dde2f20b8e8c1bda75aeb96f737eae.ssl.cf1.rackcdn.com/--xss.html
+- xss/bhandarkar.txt     - http://hackingforsecurity.blogspot.com/2013/11/xss-cheat-sheet-huge-list.html
+- xss/xssdb.txt          - http://xssdb.net/xssdb.txt
 - sqli/camoufl4g3.txt    - https://github.com/camoufl4g3/SQLi-payload-Fuzz3R/blob/master/payloads.txt
