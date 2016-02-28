@@ -46,3 +46,9 @@ wget https://gist.github.com/tennc/4026cfd0925aaad0a655/archive/c5741a19a0007bac
 unzip master.zip
 rm master.zip
 mv 4026cfd0925aaad0a655-c5741a19a0007bac49caf6cfccc93b296ec38cf0 tennc
+
+### sqlifuzzer
+wget https://github.com/ContactLeft/sqlifuzzer/archive/master.zip
+unzip master.zip
+rm master.zip
+mv sqlifuzzer-master sqlifuzzer
