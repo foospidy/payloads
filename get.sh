@@ -43,8 +43,8 @@ mv Automated-XSS-Finder-master shadsidd
 
 ### tennc
 wget https://gist.github.com/tennc/4026cfd0925aaad0a655/archive/c5741a19a0007bac49caf6cfccc93b296ec38cf0.zip
-unzip master.zip
-rm master.zip
+unzip c5741a19a0007bac49caf6cfccc93b296ec38cf0.zip
+rm c5741a19a0007bac49caf6cfccc93b296ec38cf0.zip
 mv 4026cfd0925aaad0a655-c5741a19a0007bac49caf6cfccc93b296ec38cf0 tennc
 
 ### sqlifuzzer
