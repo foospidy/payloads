@@ -27,3 +27,4 @@ Other
 - xss/bhandarkar.txt     - http://hackingforsecurity.blogspot.com/2013/11/xss-cheat-sheet-huge-list.html
 - xss/xssdb.txt          - http://xssdb.net/xssdb.txt
 - sqli/camoufl4g3.txt    - https://github.com/camoufl4g3/SQLi-payload-Fuzz3R/blob/master/payloads.txt
+- sqli/c0rni3sm.txt      - http://c0rni3sm.blogspot.in/2016/02/a-quite-rare-mssql-injection.html
