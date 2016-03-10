@@ -18,6 +18,7 @@ run `./get.sh` to download external payloads.
 OWASP
 - dirbuster              - https://www.owasp.org/index.php/DirBuster
 - fuzzing_code_database  - https://www.owasp.org/index.php/Category:OWASP_Fuzzing_Code_Database
+- JBroFuzz               - https://www.owasp.org/index.php/JBroFuzz
 
 Other
 - xss/jsf__k.txt         - http://www.jsfuck.com/
