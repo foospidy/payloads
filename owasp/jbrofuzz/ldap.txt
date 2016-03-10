@@ -1,0 +1,14 @@
+|
+!
+(
+)
+&
+!
+|
+*|
+*(|(mail=*))
+*(|(objectclass=*))
+*()|&'
+admin*
+admin*)((|userpassword=*)
+*)(uid=*))(|(uid=*
