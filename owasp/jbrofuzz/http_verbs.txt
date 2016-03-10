@@ -1,0 +1,15 @@
+et
+post
+head
+put
+delete
+trace
+propfind
+options
+copy
+move
+mkcol
+proppatch
+lock
+unlock
+search

@@ -15,6 +15,10 @@ run `./get.sh` to download external payloads.
 - shadsidd     - https://github.com/shadsidd
 - shikari1337  - https://www.shikari1337.com/list-of-xss-payloads-for-cross-site-scripting/
 
+OWASP
+- dirbuster              - https://www.owasp.org/index.php/DirBuster
+- fuzzing_code_database  - https://www.owasp.org/index.php/Category:OWASP_Fuzzing_Code_Database
+
 Other
 - xss/jsf__k.txt         - http://www.jsfuck.com/
 - xss/kirankarnad.txt    - https://www.linkedin.com/pulse/20140812222156-79939846-xss-vectors-you-may-need-as-a-pen-tester
