@@ -52,3 +52,10 @@ wget https://github.com/ContactLeft/sqlifuzzer/archive/master.zip
 unzip master.zip
 rm master.zip
 mv sqlifuzzer-master sqlifuzzer
+
+### wfuzz
+wget https://github.com/xmendez/wfuzz/archive/master.zip
+unzip master.zip
+rm master.zip
+mv wfuzz-master wfuzz
+
