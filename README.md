@@ -14,6 +14,7 @@ run `./get.sh` to download external payloads.
 - 7ioSecurity  - https://github.com/7ioSecurity/XSS-Payloads
 - shadsidd     - https://github.com/shadsidd
 - shikari1337  - https://www.shikari1337.com/list-of-xss-payloads-for-cross-site-scripting/
+- xmendez      - https://github.com/xmendez/wfuzz
 
 OWASP
 - dirbuster              - https://www.owasp.org/index.php/DirBuster
