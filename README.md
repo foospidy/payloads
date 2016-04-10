@@ -3,7 +3,7 @@ Git All the Payloads! A collection of web attack payloads. Pull requests are wel
 
 ### Usage
 
-run `./get.sh` to download external payloads.
+run `./get.sh` to download external payloads and unzip any payload files that are compressed.
 
 ### Payload Credits
 
@@ -37,6 +37,13 @@ Other
 - xss/reddit_xss_get.txt - All XSS GET requests from https://www.reddit.com/r/xss (as of 3/30/2016)
 - sqli/camoufl4g3.txt    - https://github.com/camoufl4g3/SQLi-payload-Fuzz3R/blob/master/payloads.txt
 - sqli/c0rni3sm.txt      - http://c0rni3sm.blogspot.in/2016/02/a-quite-rare-mssql-injection.html
+
+ctf
+
+Requests extracted from either packet captures or log files of capture the flag (ctf) events. Mostly raw data so not all requests are actual payloads, however requests should be deduplicated.
+
+- maccdc2012.txt          - Mid-Atlantic CCDC (http://maccdc.org/), source: http://www.netresec.com/?page=MACCDC 
+
 
 ### Miscellaneous
 - XSS references that may overlap with sources already included above:
