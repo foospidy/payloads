@@ -16,12 +16,12 @@ run `./get.sh` to download external payloads and unzip any payload files that ar
 - shikari1337  - https://www.shikari1337.com/list-of-xss-payloads-for-cross-site-scripting/
 - xmendez      - https://github.com/xmendez/wfuzz
 
-OWASP
+#### OWASP
 - dirbuster              - https://www.owasp.org/index.php/DirBuster
 - fuzzing_code_database  - https://www.owasp.org/index.php/Category:OWASP_Fuzzing_Code_Database
 - JBroFuzz               - https://www.owasp.org/index.php/JBroFuzz
 
-Other
+#### Other
 - xss/jsf__k.txt         - http://www.jsfuck.com/
 - xss/kirankarnad.txt    - https://www.linkedin.com/pulse/20140812222156-79939846-xss-vectors-you-may-need-as-a-pen-tester
 - xss/packetstorm.txt    - https://packetstormsecurity.com/files/112152/Cross-Site-Scripting-Payloads.html
@@ -38,10 +38,11 @@ Other
 - sqli/camoufl4g3.txt    - https://github.com/camoufl4g3/SQLi-payload-Fuzz3R/blob/master/payloads.txt
 - sqli/c0rni3sm.txt      - http://c0rni3sm.blogspot.in/2016/02/a-quite-rare-mssql-injection.html
 
-ctf
+#### ctf
 
 Requests extracted from either packet captures or log files of capture the flag (ctf) events. Mostly raw data so not all requests are actual payloads, however requests should be deduplicated.
 
+- maccdc2011.txt          - Mid-Atlantic CCDC (http://maccdc.org/), source: http://www.netresec.com/?page=MACCDC
 - maccdc2012.txt          - Mid-Atlantic CCDC (http://maccdc.org/), source: http://www.netresec.com/?page=MACCDC 
 
 

@@ -62,4 +62,5 @@ mv wfuzz-master wfuzz
 ###### Uncompress these files
 echo Extracting compressed payload files...
 
+gunzip ctf/maccdc2011.txt.gz
 gunzip ctf/maccdc2012.txt.gz
