@@ -42,6 +42,7 @@ run `./get.sh` to download external payloads and unzip any payload files that ar
 
 Requests extracted from either packet captures or log files of capture the flag (ctf) events. Mostly raw data so not all requests are actual payloads, however requests should be deduplicated.
 
+- maccdc2010.txt          - Mid-Atlantic CCDC (http://maccdc.org/), source: http://www.netresec.com/?page=MACCDC
 - maccdc2011.txt          - Mid-Atlantic CCDC (http://maccdc.org/), source: http://www.netresec.com/?page=MACCDC
 - maccdc2012.txt          - Mid-Atlantic CCDC (http://maccdc.org/), source: http://www.netresec.com/?page=MACCDC 
 
