@@ -47,6 +47,7 @@ Requests extracted from either packet captures or log files of capture the flag 
 - maccdc2011.txt          - Mid-Atlantic CCDC (http://maccdc.org/), source: http://www.netresec.com/?page=MACCDC
 - maccdc2012.txt          - Mid-Atlantic CCDC (http://maccdc.org/), source: http://www.netresec.com/?page=MACCDC
 - ists12_2015.txt         - Information Security Talent Search (http://ists.sparsa.org/), source: http://www.netresec.com/?page=ISTS
+- defcon20.txt            - DEFCON Capture the Flag (https://www.defcon.org/html/links/dc-ctf.html), source: http://www.netresec.com/?page=PcapFiles
 
 
 ### Miscellaneous

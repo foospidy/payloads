@@ -66,3 +66,4 @@ gunzip ctf/maccdc2010.txt.gz
 gunzip ctf/maccdc2011.txt.gz
 gunzip ctf/maccdc2012.txt.gz
 gunzip ctf/ists12_2015.txt.gz
+gunzip ctf/defcon20.txt.gz
