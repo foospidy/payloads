@@ -59,6 +59,12 @@ unzip master.zip
 rm master.zip
 mv wfuzz-master wfuzz
 
+### big list of naughty strings
+wget https://github.com/minimaxir/big-list-of-naughty-strings/archive/master.zip
+unzip master.zip
+rm master.zip
+mv big-list-of-naughty-strings-master big-list-of-naughty-strings
+
 ###### Uncompress these files
 echo Extracting compressed payload files...
 
