@@ -16,6 +16,7 @@ run `./get.sh` to download external payloads and unzip any payload files that ar
 - shikari1337  - https://www.shikari1337.com/list-of-xss-payloads-for-cross-site-scripting/
 - xmendez      - https://github.com/xmendez/wfuzz
 - minimaxir    - https://github.com/minimaxir/big-list-of-naughty-strings
+- xsscx        - https://github.com/xsscx/Commodity-Injection-Signatures
 
 #### OWASP
 - dirbuster              - https://www.owasp.org/index.php/DirBuster
