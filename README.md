@@ -17,6 +17,7 @@ run `./get.sh` to download external payloads and unzip any payload files that ar
 - xmendez      - https://github.com/xmendez/wfuzz
 - minimaxir    - https://github.com/minimaxir/big-list-of-naughty-strings
 - xsscx        - https://github.com/xsscx/Commodity-Injection-Signatures
+- TheRook      - https://github.com/TheRook/subbrute
 
 #### OWASP
 - dirbuster              - https://www.owasp.org/index.php/DirBuster
