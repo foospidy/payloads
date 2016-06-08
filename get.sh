@@ -71,6 +71,12 @@ unzip master.zip
 rm master.zip
 mv Commodity-Injection-Signatures-master Commodity-Injection-Signatures
 
+### TheRook
+wget https://github.com/TheRook/subbrute/archive/master.zip
+unzip master.zip
+rm master.zip
+mv subbrute-master subbrute
+
 ###### Uncompress these files
 echo Extracting compressed payload files...
 
