@@ -65,6 +65,12 @@ unzip master.zip
 rm master.zip
 mv big-list-of-naughty-strings-master big-list-of-naughty-strings
 
+### xsscx
+wget https://github.com/xsscx/Commodity-Injection-Signatures/archive/master.zip
+unzip master.zip
+rm master.zip
+mv Commodity-Injection-Signatures-master Commodity-Injection-Signatures
+
 ###### Uncompress these files
 echo Extracting compressed payload files...
 
