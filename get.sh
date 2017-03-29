@@ -77,6 +77,12 @@ unzip master.zip
 rm master.zip
 mv subbrute-master subbrute
 
+### danielmiessler
+wget https://github.com/danielmiessler/RobotsDisallowed/archive/master.zip
+unzip master.zip
+rm master.zip
+mv RobotsDisallowed-master RobotsDisallowed
+
 ###### Uncompress these files
 echo Extracting compressed payload files...
 
