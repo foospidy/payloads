@@ -44,6 +44,7 @@ run `./get.sh` to download external payloads and unzip any payload files that ar
 - sqli/c0rni3sm.txt       - http://c0rni3sm.blogspot.in/2016/02/a-quite-rare-mssql-injection.html
 - sqli/sqlifuzzer.txt     - https://github.com/ContactLeft/sqlifuzzer/tree/master/payloads
 - sqli/jstnkndy.txt       - https://foxglovesecurity.com/2017/02/07/type-juggling-and-php-object-injection-and-sqli-oh-my/
+- sqli/d0znpp.txt         - https://medium.com/@d0znpp/how-to-bypass-libinjection-in-many-waf-ngwaf-1e2513453c0f
 - traversal/dotdotpwn.txt - https://github.com/wireghoul/dotdotpwn
 - codeinjection/fede.txt  - https://techblog.mediaservice.net/2016/10/exploiting-ognl-injection/
 
