@@ -19,6 +19,7 @@ run `./get.sh` to download external payloads and unzip any payload files that ar
 - xsscx          - https://github.com/xsscx/Commodity-Injection-Signatures
 - TheRook        - https://github.com/TheRook/subbrute
 - danielmiessler - https://github.com/danielmiessler/RobotsDisallowed
+- FireFart       - https://github.com/FireFart/HashCollision-DOS-POC
 
 #### OWASP
 - dirbuster              - https://www.owasp.org/index.php/DirBuster
