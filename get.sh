@@ -83,6 +83,12 @@ unzip master.zip
 rm master.zip
 mv RobotsDisallowed-master RobotsDisallowed
 
+### FireFart
+wget https://github.com/FireFart/HashCollision-DOS-POC/archive/master.zip
+unzip master.zip
+rm master.zip
+mv HashCollision-DOS-POC-master HashCollision-DOS-POC
+
 ###### Uncompress these files
 echo Extracting compressed payload files...
 
