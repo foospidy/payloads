@@ -89,6 +89,12 @@ unzip master.zip
 rm master.zip
 mv HashCollision-DOS-POC-master HashCollision-DOS-POC
 
+### HybrisDisaster
+wget https://github.com/FireFart/aspHashDoS/archive/master.zip
+unzip master.zip
+rm master.zip
+mv aspHashDoS-master aspHashDoS
+
 ###### Uncompress these files
 echo Extracting compressed payload files...
 
