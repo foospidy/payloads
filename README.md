@@ -20,6 +20,7 @@ run `./get.sh` to download external payloads and unzip any payload files that ar
 - TheRook        - https://github.com/TheRook/subbrute
 - danielmiessler - https://github.com/danielmiessler/RobotsDisallowed
 - FireFart       - https://github.com/FireFart/HashCollision-DOS-POC
+- HybrisDisaster - https://github.com/HybrisDisaster/aspHashDoS
 
 #### OWASP
 - dirbuster              - https://www.owasp.org/index.php/DirBuster
