@@ -21,6 +21,7 @@ run `./get.sh` to download external payloads and unzip any payload files that ar
 - danielmiessler - https://github.com/danielmiessler/RobotsDisallowed
 - FireFart       - https://github.com/FireFart/HashCollision-DOS-POC
 - HybrisDisaster - https://github.com/HybrisDisaster/aspHashDoS
+- swisskyrepo    - https://github.com/swisskyrepo/PayloadsAllTheThings
 
 #### OWASP
 - dirbuster              - https://www.owasp.org/index.php/DirBuster
