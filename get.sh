@@ -95,6 +95,12 @@ unzip master.zip
 rm master.zip
 mv aspHashDoS-master aspHashDoS
 
+### swisskyrepo
+wget https://github.com/swisskyrepo/PayloadsAllTheThings/archive/master.zip
+unzip master.zip
+rm master.zip
+mv PayloadsAllTheThings-master PayloadsAllTheThings
+
 ###### Uncompress these files
 echo Extracting compressed payload files...
 
