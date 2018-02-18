@@ -101,6 +101,12 @@ unzip master.zip
 rm master.zip
 mv PayloadsAllTheThings-master PayloadsAllTheThings
 
+### 1N3
+wget https://github.com/1N3/IntruderPayloads/archive/master.zip
+unzip master.zip
+rm master.zip
+mv IntruderPayloads-master IntruderPayloads
+
 ###### Uncompress these files
 echo Extracting compressed payload files...
 
