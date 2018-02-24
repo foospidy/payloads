@@ -133,6 +133,11 @@ unzip master.zip
 rm master.zip
 mv Virtual-host-wordlist-master Virtual-host-wordlist
 
+wget https://github.com/cujanovic/dirsearch-wordlist/archive/master.zip
+unzip master.zip
+rm master.zip
+mv dirsearch-wordlist-master dirsearch-wordlist
+
 ###### Uncompress these files
 echo Extracting compressed payload files...
 
