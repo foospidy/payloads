@@ -29,6 +29,12 @@ run `./get.sh` to download external payloads and unzip any payload files that ar
 - cujanovic      - https://github.com/cujanovic/CRLF-Injection-Payloads
 - cujanovic      - https://github.com/cujanovic/Virtual-host-wordlist
 - cujanovic      - https://github.com/cujanovic/dirsearch-wordlist
+- lavalamp-      - https://github.com/lavalamp-/password-lists
+- arnaudsoullie  - https://github.com/arnaudsoullie/ics-default-passwords
+- scadastrangelove  - https://github.com/scadastrangelove/SCADAPASS
+- jeanphorn         - https://github.com/jeanphorn/wordlist
+- j3ers3            - https://github.com/j3ers3/PassList
+- nyxxxie           - https://github.com/nyxxxie/awesome-default-passwords
 
 #### OWASP
 - dirbuster              - https://www.owasp.org/index.php/DirBuster

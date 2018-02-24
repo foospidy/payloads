@@ -138,6 +138,43 @@ unzip master.zip
 rm master.zip
 mv dirsearch-wordlist-master dirsearch-wordlist
 
+### lavalamp-
+wget https://github.com/lavalamp-/password-lists/archive/master.zip
+unzip master.zip
+rm master.zip
+mv password-lists-master password-lists
+
+### arnaudsoullie
+wget https://github.com/arnaudsoullie/ics-default-passwords/archive/master.zip
+unzip master.zip
+rm master.zip
+mv ics-default-passwords-master ics-default-passwords
+
+### scadastrangelove
+wget https://github.com/scadastrangelove/SCADAPASS/archive/master.zip
+unzip master.zip
+rm master.zip
+mv SCADAPASS-master SCADAPASS
+
+### jeanphorn
+wget https://github.com/jeanphorn/wordlist/archive/master.zip
+unzip master.zip
+rm master.zip
+mv wordlist-master wordlist
+
+### j3ers3
+wget https://github.com/j3ers3/PassList/archive/master.zip
+unzip master.zip
+rm master.zip
+mv PassList-master PassList
+
+### nyxxxie
+wget https://github.com/nyxxxie/awesome-default-passwords/archive/master.zip
+unzip master.zip
+rm master.zip
+mv awesome-default-passwords-master awesome-default-passwords
+
+
 ###### Uncompress these files
 echo Extracting compressed payload files...
 
