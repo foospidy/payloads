@@ -24,6 +24,8 @@ run `./get.sh` to download external payloads and unzip any payload files that ar
 - swisskyrepo    - https://github.com/swisskyrepo/PayloadsAllTheThings
 - 1N3            - https://github.com/1N3/IntruderPayloads
 - cujanovic      - https://github.com/cujanovic/Open-Redirect-Payloads
+- cujanovic      - https://github.com/cujanovic/Content-Bruteforcing-Wordlist
+- cujanovic      - https://github.com/cujanovic/subdomain-bruteforce-list
 
 #### OWASP
 - dirbuster              - https://www.owasp.org/index.php/DirBuster

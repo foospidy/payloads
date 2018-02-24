@@ -113,6 +113,16 @@ unzip master.zip
 rm master.zip
 mv Open-Redirect-Payloads-master Open-Redirect-Payloads
 
+wget https://github.com/cujanovic/Content-Bruteforcing-Wordlist/archive/master.zip
+unzip master.zip
+rm master.zip
+mv Content-Bruteforcing-Wordlist-master Content-Bruteforcing-Wordlist
+
+wget https://github.com/cujanovic/subdomain-bruteforce-list/archive/master.zip
+unzip master.zip
+rm master.zip
+mv subdomain-bruteforce-list-master subdomain-bruteforce-list
+
 ###### Uncompress these files
 echo Extracting compressed payload files...
 
