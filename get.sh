@@ -123,6 +123,16 @@ unzip master.zip
 rm master.zip
 mv subdomain-bruteforce-list-master subdomain-bruteforce-list
 
+wget https://github.com/cujanovic/CRLF-Injection-Payloads/archive/master.zip
+unzip master.zip
+rm master.zip
+mv CRLF-Injection-Payloads-master CRLF-Injection-Payloads
+
+wget https://github.com/cujanovic/Virtual-host-wordlist/archive/master.zip
+unzip master.zip
+rm master.zip
+mv Virtual-host-wordlist-master Virtual-host-wordlist
+
 ###### Uncompress these files
 echo Extracting compressed payload files...
 

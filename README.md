@@ -26,6 +26,8 @@ run `./get.sh` to download external payloads and unzip any payload files that ar
 - cujanovic      - https://github.com/cujanovic/Open-Redirect-Payloads
 - cujanovic      - https://github.com/cujanovic/Content-Bruteforcing-Wordlist
 - cujanovic      - https://github.com/cujanovic/subdomain-bruteforce-list
+- cujanovic      - https://github.com/cujanovic/CRLF-Injection-Payloads
+- cujanovic      - https://github.com/cujanovic/Virtual-host-wordlist
 
 #### OWASP
 - dirbuster              - https://www.owasp.org/index.php/DirBuster
