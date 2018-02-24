@@ -107,6 +107,12 @@ unzip master.zip
 rm master.zip
 mv IntruderPayloads-master IntruderPayloads
 
+### cujanovic
+wget https://github.com/cujanovic/Open-Redirect-Payloads/archive/master.zip
+unzip master.zip
+rm master.zip
+mv Open-Redirect-Payloads-master Open-Redirect-Payloads
+
 ###### Uncompress these files
 echo Extracting compressed payload files...
 
