@@ -37,12 +37,14 @@ run `./get.sh` to download external payloads and unzip any payload files that ar
 - nyxxxie           - https://github.com/nyxxxie/awesome-default-passwords
 
 #### OWASP
+
 - dirbuster              - https://www.owasp.org/index.php/DirBuster
 - fuzzing_code_database  - https://www.owasp.org/index.php/Category:OWASP_Fuzzing_Code_Database
 - JBroFuzz               - https://www.owasp.org/index.php/JBroFuzz
 
 #### Other
-- xss/xss-payload-list    - https://github.com/ismailtasdelen/xss-payload-list
+
+- xss/ismailtasdelen.txt  - https://github.com/ismailtasdelen/xss-payload-list
 - xss/jsf__k.txt          - http://www.jsfuck.com/
 - xss/kirankarnad.txt     - https://www.linkedin.com/pulse/20140812222156-79939846-xss-vectors-you-may-need-as-a-pen-tester
 - xss/packetstorm.txt     - https://packetstormsecurity.com/files/112152/Cross-Site-Scripting-Payloads.html
