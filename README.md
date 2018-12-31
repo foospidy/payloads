@@ -67,6 +67,8 @@ run `./get.sh` to download external payloads and unzip any payload files that ar
 - sqli/libinjection-bypasses.txt - https://gist.github.com/migolovanov/432fe28c8c7e9fa675ab3903c5eda77f
 - traversal/dotdotpwn.txt - https://github.com/wireghoul/dotdotpwn
 - codeinjection/fede.txt  - https://techblog.mediaservice.net/2016/10/exploiting-ognl-injection/
+- commandinjection/ismailtasdelen-unix.txt - https://github.com/ismailtasdelen/command-injection-payload-list
+- commandinjection/ismailtasdelen-windows.txt - https://github.com/ismailtasdelen/command-injection-payload-list
 
 #### ctf
 
