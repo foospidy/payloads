@@ -35,6 +35,7 @@ run `./get.sh` to download external payloads and unzip any payload files that ar
 - jeanphorn         - https://github.com/jeanphorn/wordlist
 - j3ers3            - https://github.com/j3ers3/PassList
 - nyxxxie           - https://github.com/nyxxxie/awesome-default-passwords
+- foospidy          - https://github.com/foospidy/web-cve-tests
 
 #### OWASP
 

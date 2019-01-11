@@ -174,6 +174,11 @@ unzip master.zip
 rm master.zip
 mv awesome-default-passwords-master awesome-default-passwords
 
+### foospidy
+wget https://github.com/foospidy/web-cve-tests/archive/master.zip
+unzip master.zip
+rm master.zip
+mv web-cve-tests-master web-cve-tests
 
 ###### Uncompress these files
 echo Extracting compressed payload files...
