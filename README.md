@@ -63,6 +63,7 @@ run `./get.sh` to download external payloads and unzip any payload files that ar
 - sqli/camoufl4g3.txt     - https://github.com/camoufl4g3/SQLi-payload-Fuzz3R/blob/master/payloads.txt
 - sqli/c0rni3sm.txt       - http://c0rni3sm.blogspot.in/2016/02/a-quite-rare-mssql-injection.html
 - sqli/sqlifuzzer.txt     - https://github.com/ContactLeft/sqlifuzzer/tree/master/payloads
+- sqli/harisec.txt        - https://hackerone.com/reports/297478
 - sqli/jstnkndy.txt       - https://foxglovesecurity.com/2017/02/07/type-juggling-and-php-object-injection-and-sqli-oh-my/
 - sqli/d0znpp.txt         - https://medium.com/@d0znpp/how-to-bypass-libinjection-in-many-waf-ngwaf-1e2513453c0f
 - sqli/libinjection-bypasses.txt - https://gist.github.com/migolovanov/432fe28c8c7e9fa675ab3903c5eda77f

