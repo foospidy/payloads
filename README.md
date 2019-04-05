@@ -60,6 +60,7 @@ run `./get.sh` to download external payloads and unzip any payload files that ar
 - xss/secgeek.txt         - https://www.secgeek.net/solutions-for-xss-waf-challenge/
 - xss/reddit_xss_get.txt  - All XSS GET requests from https://www.reddit.com/r/xss (as of 3/30/2016)
 - xss/rafaybaloch.txt     - http://www.rafayhackingarticles.net/2016/09/breaking-great-wall-of-web-xss-waf.html
+- xss/alternume0.txt      - https://www.openbugbounty.org/reports/722726/
 - sqli/camoufl4g3.txt     - https://github.com/camoufl4g3/SQLi-payload-Fuzz3R/blob/master/payloads.txt
 - sqli/c0rni3sm.txt       - http://c0rni3sm.blogspot.in/2016/02/a-quite-rare-mssql-injection.html
 - sqli/sqlifuzzer.txt     - https://github.com/ContactLeft/sqlifuzzer/tree/master/payloads
