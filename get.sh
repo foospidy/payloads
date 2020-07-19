@@ -180,6 +180,12 @@ unzip master.zip
 rm master.zip
 mv web-cve-tests-master web-cve-tests
 
+### terjanq
+wget https://github.com/terjanq/Tiny-XSS-Payloads/archive/master.zip
+unzip master.zip
+rm master.zip
+mv Tiny-XSS-Payloads-master Tiny-XSS-Payloads
+
 ###### Uncompress these files
 echo Extracting compressed payload files...
 
